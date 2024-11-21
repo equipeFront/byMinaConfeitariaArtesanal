@@ -2,7 +2,7 @@
 
 <h2>Tópicos</h2>
 <ul>
-  <li><a href="https://github.com/equipeFront/byMinaConfeitariaArtesanal?tab=readme-ov-file#integrantes-da-equipe-">Integrantes da equipa</a>
+  <li><a href="https://github.com/equipeFront/byMinaConfeitariaArtesanal?tab=readme-ov-file#integrantes-da-equipe-">Integrantes da equipe</a>
     </li>
   <li><a href="https://github.com/equipeFront/byMinaConfeitariaArtesanal?tab=readme-ov-file#institui%C3%A7%C3%A3o-comercial-atendida">Institução atendida</a></li>
   <li><a href="https://github.com/equipeFront/byMinaConfeitariaArtesanal?tab=readme-ov-file#descri%C3%A7%C3%A3o-do-projeto">Descrição do projeto</a></li>
