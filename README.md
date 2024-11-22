@@ -15,7 +15,7 @@
   <tr>
     <th align="center"><a href="https://github.com/JoaoVFB"><img     src="https://i.ibb.co/rHmQwYP/IMG-20240525-122603958-HDR.jpg" width="110" style="max-width: 100%;"><br><sub>João Vitor Furquim</sub></a></th>
     <th align="center"><a href=""><img     src="https://i.ibb.co/y0Ydhjd/foto-Pedro.jpg" alt="foto-Pedro" width="110"  style="max-width: 100%;"><br><sub>Pedro Henrique Silva Melo</sub></a></th>
-    <th align="center"><a href="https://github.com/DaniloFrazon"><img src="https://i.ibb.co/8P0574B/Whats-App-Image-2024-11-21-at-21-04-00.jpg" alt="Whats-App-Image-2024-11-21-at-21-04-00" width="110"><br><sub>Danilo Augusto</sub></a></th>
+    <th align="center"><a href="https://github.com/DaniloFrazon"><img src="https://i.ibb.co/8P0574B/Whats-App-Image-2024-11-21-at-21-04-00.jpg" alt="Whats-App-Image-2024-11-21-at-21-04-00" width="100"><br><sub>Danilo Augusto</sub></a></th>
     </tr>
 </thead>
 </table></markdown-accessiblity-table>
